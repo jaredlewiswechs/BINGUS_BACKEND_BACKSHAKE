@@ -1,0 +1,515 @@
+title,artist,genre,tempo,mood,style
+Midnight City,M83,indie,fast,energetic,vintage
+Electric Feel,MGMT,indie,medium,calm,funky
+Take Me To Church,Hozier,rock,slow,sad,acoustic
+Some Nights,fun.,pop,fast,energetic,normal
+Adventure of a Lifetime,Coldplay,pop,fast,happy,funky
+Clocks,Coldplay,pop,medium,calm,normal
+Let It Go,Idina Menzel,pop,fast,empowered,normal
+My Universe,Coldplay x BTS,pop,fast,happy,funky
+Easy On Me,Adele,pop,slow,sad,acoustic
+Perfect,Ed Sheeran,pop,slow,romantic,acoustic
+Shape of You,Ed Sheeran,pop,fast,happy,normal
+Castle on the Hill,Ed Sheeran,pop,fast,nostalgic,normal
+Photograph,Ed Sheeran,pop,slow,sad,acoustic
+Closer,The Chainsmokers,edm,fast,happy,normal
+Don't Start Now,Dua Lipa,pop,fast,empowered,funky
+New Rules,Dua Lipa,pop,fast,confident,normal
+Break My Heart,Dua Lipa,pop,fast,emotional,funky
+Waiting on a War,Foo Fighters,rock,medium,reflective,vintage
+The Less I Know The Better,Tame Impala,indie,medium,melancholy,funky
+Borderline,Tame Impala,indie,medium,calm,vintage
+Lonely,Justin Bieber,pop,slow,sad,acoustic
+Intentions,Justin Bieber,pop,medium,happy,normal
+Ghost Town,Benson Boone,pop,slow,sad,acoustic
+abcdefu,GAYLE,pop,fast,angry,normal
+Numb Little Bug,Em Beihold,pop,medium,sad,funky
+You Right,Doja Cat,r&b,medium,chill,normal
+Vegas,Doja Cat,rap,fast,confident,funky
+Woman,Doja Cat,pop,fast,happy,funky
+Mood,24kGoldn,hip-hop,fast,happy,normal
+Rockstar,DaBaby,hip-hop,fast,angry,normal
+Goosebumps,Travis Scott,hip-hop,slow,moody,vintage
+SICKO MODE,Travis Scott,hip-hop,fast,energetic,normal
+Praise God,Kanye West,hip-hop,medium,dark,vintage
+Flashing Lights,Kanye West,hip-hop,medium,cool,vintage
+Good Morning,Kanye West,hip-hop,medium,uplifting,vintage
+Fast Car,Tracy Chapman,folk,medium,sad,acoustic
+Riptide,Vance Joy,indie,medium,happy,acoustic
+Budapest,George Ezra,folk,medium,happy,normal
+Take It All,Adele,soul,slow,emotional,acoustic
+When I Was Your Man,Bruno Mars,soul,slow,sad,acoustic
+Grenade,Bruno Mars,pop,medium,angry,normal
+Treasure,Bruno Mars,funk,fast,happy,funky
+Mirror,Lil Wayne,rap,slow,reflective,vintage
+Lucid Dreams,Juice WRLD,hip-hop,slow,sad,vintage
+Come & Go,Juice WRLD,pop,fast,emotional,normal
+Happier,Marshmello,edm,fast,sad,normal
+Silence,Marshmello,edm,medium,calm,normal
+Faded,Alan Walker,edm,fast,melancholy,vintage
+Alone,Alan Walker,edm,fast,uplifting,normal
+Runaway,Aurora,indie,slow,dreamy,acoustic
+Playing Games,Summer Walker,r&b,medium,calm,normal
+Rottweiler,Babycheifdoit,hip-hop,fast,energetic,normal
+Let It Happen,Tame Impala,indie,fast,happy,vintage
+Whim Whamiee,Pluto (feat . YK niece),hip-hop,fast,energetic,normal
+All I need,Radiohead,alternative,slow,sad,vintage
+TRX,Bloodhound Lil Jeff,hip-hop,medium,energetic,normal
+I Bet on Losing Dogs,Mitski,soul,slow,sad,normal
+Bobby Bitch,Bobby Shmurda,hip-hop,medium,happy,normal
+Exotic,Bloodhound Lil Jeff x Lil Scoom89,hip-hop,medium,energetic,normal
+Episode 2,Queen Key,hip-hop,fast,energetic,normal
+Red Leather,"Future, Metro Boomin, J.Cole",hip-hop,medium,energetic,normal
+LoLo Félix,Arsenal Efectivo,alternative,fast,energetic,normal
+On D Gas,LEGADO 7,alternative,medium,energetic,normal
+life force,"ptasinski, RJ Pasin",edm,fast,energetic,funky
+Te Quería Ver,Alemán & Newton Vega,alternative,fast,energetic,normal
+I-10 Baby,YoungBoy Never Broke Again,hip-hop,medium,energetic,normal
+Seven Nation Army,The White Stripes,rock,medium,energetic,normal
+마리아 (Maria),Hwasa,k-pop,medium,energetic,funky
+Spread Thin,Mariah the Scientist,soul,medium,calm,normal
+10s,Pantera,rock,slow,energetic,acoustic
+G.H.I.F,Rylo Rodriguez,hip-hop,fast,calm,normal
+Like Him,"Tyler, The Creator",hip-hop,medium,sad,normal
+Shooting stars,Bag raiders,pop,medium,happy,funky
+Im so sick,Flyleaf,alternative,medium,energetic,normal
+WILDFLOWER,Billie Eilish,soul,slow,sad,normal
+Making love,Treety,hip-hop,fast,energetic,normal
+Risk,Deftones,alternative,slow,calm,normal
+The Cut That Always Bleeds,Conan Gray,soul,slow,sad,normal
+This love,Pantera,rock,slow,calm,acoustic
+Cherry Scented,Jack Off Jill,alternative,fast,energetic,vintage
+Nobody,Mitski,soul,slow,sad,normal
+Peace Hardly,YoungBoy Never Broke Again,hip-hop,medium,energetic,normal
+The Distance,NoCap,hip-hop,medium,calm,normal
+Panoramic,YoungBoy Never Broke Again,hip-hop,medium,energetic,normal
+Street Runner,Rod Wave,hip-hop,medium,sad,normal
+Floods,Pantera,rock,slow,calm,acoustic
+TONYA,BROCKHAMPTON,hip-hop,slow,sad,normal
+On My Side,YoungBoy Never Broke Again,hip-hop,medium,energetic,normal
+Okay,YoungBoy Never Broke Again,hip-hop,medium,energetic,normal
+RIp Lil Phat,YoungBoy Never Broke Again,hip-hop,medium,energetic,normal
+Bring 'Em Out,YoungBoy Never Broke Again,hip-hop,medium,energetic,normal
+Chanel,Frank Ocean,r&b,slow,calm,normal
+Light Shower,Melanie Martienez,alternative,medium,energetic,funky
+The law of recognition,KYSLINGO,soul,slow,sad,normal
+Being Honest,Kay Flock,hip-hop,slow,sad,normal
+Creep,Radiohead,alternative,medium,sad,normal
+before I close my eyes,xxxtentacion,hip-hop,medium,sad,normal
+Nun,FullyChop/w Quan Get'Em Gone,hip-hop,fast,energetic,normal
+SEE YU UP,BABY MEL,hip-hop,medium,energetic,normal
+skinny,billie eilish,soul,slow,sad,normal
+The game goes on,DJ screw,hip-hop,slow,calm,normal
+Breezeblocks,Alt-J,alternative,medium,energetic,normal
+Wavelength,Whirr,alternative,slow,happy,normal
+Lose Control,Teddy Swims,pop,slow,calm,normal
+Grand Opening,laila,r&b,medium,happy,funky
+Thug Motivation,Rod Wave,hip-hop,medium,happy,normal
+HAY LUPITA,Lomiiel,pop,fast,energetic,normal
+Violent Crimes,Kanye West,hip-hop,slow,sad,normal
+Birds Of A Feather,Billie Eilish,pop,slow,sad,normal
+Way Less Sad,AJR,pop,fast,energetic,normal
+Chest pain,Malcom Todd,alternative,slow,sad,acoustic
+come see me,Jill scott,soul,slow,sad,acoustic
+Pride,Kendrick Lamar,hip-hop,fast,energetic,normal
+Brent fiyaz,The weekend,r&b,medium,calm,normal
+Bk the rula,Tink,r&b,medium,calm,normal
+MVB,Diamond The Body,r&b,fast,energetic,normal
+Greece or Sweden,Nocap,hip-hop,medium,calm,normal
+not allowed,Tv girls,alternative,fast,sad,vintage
+Infatuation,Jamie Foxx,r&b,slow,calm,normal
+El Apagón,Bad Bunny,latin,medium,energetic,normal
+Snapback,4 count,hip-hop,medium,happy,normal
+Blueberry Faygo,Lil Mosey,r&b,medium,energetic,acoustic
+Judge the jury,NoCap,hip-hop,slow,calm,normal
+say yes,floetry,soul,slow,calm,normal
+Wassup,Laila!,r&b,medium,happy,normal
+Want 2,Laila!,r&b,medium,energetic,normal
+Keep Me Waiting,NoCap,hip-hop,medium,calm,normal
+on & on,Erykah Badu,soul,medium,calm,normal
+Some of your love,PartyNextDoor,r&b,slow,happy,normal
+Gemini Love,LUCKI,hip-hop,slow,calm,normal
+Rolling in the Deep,Adele,pop,medium,energetic,funky
+Cupid's Chokehold / Breakfast in America,Gym Class Heroes,alternative,medium,happy,funky
+Sneaking,Youngboy,hip-hop,medium,energetic,normal
+Ascension (Don't Ever Wonder),Maxwell,soul,medium,calm,normal
+oscar winning tears,RAYE,pop,fast,energetic,vintage
+No Cup,Ivori Babu,r&b,medium,energetic,normal
+No ordinary love,Sade,r&b,slow,calm,normal
+Don't Threaten Me With a Good TIme,Panic! At The Disco,alternative,medium,energetic,funky
+ready for love,india.Arie,soul,slow,calm,acoustic
+Drug Addiction,YoungBoy Never Broke Again,hip-hop,medium,sad,normal
+Next To You,Bryson Tiller,r&b,slow,calm,normal
+Gonna Love Me,Teyana Taylor,soul,medium,calm,normal
+Catch A B,MAF Teeski,r&b,fast,energetic,funky
+Joy,black street,r&b,medium,happy,normal
+Swept,ST6 JodyBoof,hip-hop,fast,energetic,acoustic
+Lotus Flower Bomb,Wale ft. Miguel,soul,medium,calm,normal
+Sorry not sorry,Bryson Tiller,r&b,medium,happy,normal
+We Should,Lil baby,hip-hop,medium,calm,normal
+crush,Yuna ft. Usher,soul,medium,calm,normal
+How bout now,Bryson tiller,r&b,medium,happy,normal
+Heavy,The Marias,alternative,slow,calm,normal
+Other Side of the Game,Erykah Badu,soul,slow,calm,funky
+Helena,My Chemical Romance,alternative,medium,sad,normal
+30 For 30,SZA and Kendrick Lamar,hip-hop,fast,energetic,normal
+Pretty Wings,Maxwell,soul,slow,sad,vintage
+Everybody Talks,Neon Trees,indie,fast,happy,funky
+The way,Jill scott,soul,medium,calm,normal
+Don't,Bryson Tiller,r&b,medium,calm,normal
+Baddie Slide,tink,r&b,medium,happy,normal
+Lady,D'Angelo,soul,medium,calm,funky
+Exchange,Bryson Tiller,r&b,medium,calm,normal
+Saturn,SZA,r&b,slow,calm,normal
+Mi Nube city,Jauria Santa,hip-hop,medium,energetic,normal
+Golden,Jill scott,soul,medium,happy,normal
+nuts,lil peep,hip-hop,medium,sad,vintage
+Get It Together,India.Arie,soul,slow,calm,acoustic
+I cant help it,Michael Jackson,r&b,slow,calm,normal
+R U Mine?,Arctic Monkeys,rock,medium,energetic,funky
+Brown skin,India.Arie,soul,slow,calm,acoustic
+Nobody Gets Me,SZA,rock,slow,sad,normal
+drive ME crazy!,Lil Yachty,alternative,medium,happy,funky
+Sweet love,Anita Baker,r&b,medium,happy,normal
+Can't Leave Drank Alone,Z-Ro,hip-hop,medium,energetic,normal
+Line it up,diamond the body,r&b,medium,energetic,normal
+Nite and Day,AI B. Sure!,r&b,medium,happy,normal
+Iron Man,Black Sabbath,rock,medium,sad,normal
+Load up,Raq baby,hip-hop,medium,calm,normal
+Flower bomb,Wale ft. Miguel,r&b,fast,happy,normal
+Cherish the day,Sade,r&b,slow,calm,normal
+War,Chief Keef,hip-hop,medium,energetic,normal
+Eyes Without a Face,Billy Idol,rock,medium,sad,vintage
+jugaste y sufri,DannyLux,soul,fast,sad,vintage
+Mind of a Souljah,Bone Thugs-n-Harmony,hip-hop,fast,energetic,normal
+Thinkin Bout You,Frank Ocean,soul,medium,calm,normal
+Pink + White,Frank Ocean,soul,medium,calm,acoustic
+We all try,Frank Ocean,soul,medium,calm,normal
+Wake n' Bake,Kodak Black,hip-hop,medium,energetic,normal
+Bad Religion,Frank Ocean,soul,slow,sad,normal
+Save me,Bak jay,hip-hop,fast,energetic,acoustic
+Sierra Leone,Frank Ocean,soul,slow,calm,normal
+Vienna,Billy Joel,rock,medium,calm,normal
+Neverita,Bad Bunny,latin,medium,happy,funky
+Godspeed,Frank Ocean,soul,slow,calm,normal
+what tink do?,tink,r&b,medium,energetic,normal
+Pilot Jones,Frank Ocean,soul,medium,calm,normal
+30,Jaeychino,hip-hop,fast,energetic,acoustic
+Gooey,Glass Animals,alternative,slow,calm,normal
+whim whamiee,big pluto,r&b,medium,energetic,normal
+Helmet,Steve Lacy,soul,medium,calm,funky
+ILBB2,Jorjiana,r&b,medium,happy,normal
+Tatuajes,Ivan Cornejo,latin,medium,sad,normal
+Mia Khalifa,iLOVEFRiDAY,alternative,medium,energetic,normal
+Is It Really You,Loathe,rock,medium,sad,funky
+Lost,Frank Ocean,soul,medium,calm,normal
+Best part,Daniel Caesar,soul,slow,happy,normal
+crains in the sky,solange knowles,hip-hop,slow,calm,normal
+White Ferrari,Frank Ocean,soul,slow,calm,normal
+Eres Mia,Romeo Santos,latin,medium,energetic,normal
+Self Control,Frank Ocean,soul,slow,sad,normal
+i love freak,lil tjay,hip-hop,medium,calm,acoustic
+Cake,Melanie Martinez,alternative,medium,sad,normal
+Ivy,Frank Ocean,soul,medium,happy,normal
+Nights,Frank Ocean,soul,slow,calm,normal
+No Me Queda Mas,Selena,latin,slow,sad,normal
+Novacane,Frank Ocean,soul,medium,calm,normal
+Swim Good,Frank Ocean,soul,medium,sad,normal
+Super Rich Kids,Frank Ocean,soul,slow,energetic,normal
+Cayendo,Frank Ocean,soul,slow,sad,acoustic
+Since U Been Gone,Kelly Clarkson,pop,fast,energetic,funky
+You're the Only Good Thing in My Life,Cigarettes After Sex,alternative,slow,calm,normal
+Safe With Me,Gryffin,pop,medium,calm,normal
+August 10,Julie Doiron,alternative,slow,sad,normal
+Animal I Have Become,Three Days Grace,alternative,fast,energetic,normal
+Baby Please,Ivan Cornejo,latin,medium,sad,normal
+Who's That Chick,Rihanna,pop,fast,happy,normal
+Sober Up,AJR,pop,medium,calm,normal
+The Monster,Rihanna,hip-hop,slow,sad,normal
+no chill,PARTYNEXTDOOR,r&b,slow,calm,normal
+LA CANCION,J Balvin & Bad Bunny,latin,slow,sad,normal
+Lollipop (Candyman),Aqua,pop,fast,energetic,normal
+Like a Boy,Ciara,r&b,medium,happy,normal
+Vete,Bad Bunny,latin,medium,calm,normal
+Strange,LP,indie,medium,sad,normal
+deja vu,olivia rodrigo,pop,medium,energetic,normal
+Like A Stone,Audioslave,alternative,medium,sad,normal
+La-La Means I Love You,The Delfonics,soul,slow,happy,acoustic
+Here With Me,Marshmello,edm,medium,sad,normal
+Wishing On a Star,Rose Royce,soul,medium,calm,funky
+BFF,Slayyyter,pop,fast,happy,normal
+Sleep Well,D4vd,alternative,medium,calm,normal
+Fancy,TWICE,k-pop,medium,happy,normal
+SHOOTING STAR,XG,k-pop,medium,happy,normal
+Muse,PARTYNEXTDOOR,r&b,medium,calm,normal
+Expensive Pain,Screwly G,hip-hop,medium,calm,normal
+White ferrari,Frank Ocean,r&b,slow,sad,normal
+Sometimes,Juice Wrld,hip-hop,fast,sad,normal
+Playing games,Summer walker,r&b,fast,calm,normal
+Gang Over Luv,Brent Faiyaz,r&b,medium,calm,normal
+Empty Out Your Pockets,Juice Wrld,edm,fast,energetic,normal
+Knocked Off,Youngboy Never Broke Again,hip-hop,medium,energetic,normal
+Prblms,6LACK,r&b,medium,calm,normal
+Portabella,Young Nudy,hip-hop,medium,energetic,normal
+bout it,liv.e,r&b,slow,calm,funky
+Back To the South,Zillionare Doe,hip-hop,medium,calm,normal
+Sorry Not Sorry,Tyler the creator,pop,medium,sad,normal
+Lovely,Sonder,r&b,slow,calm,normal
+Already Dead,Juice Wrld,hip-hop,slow,sad,normal
+Barbarian,Juice Wrld,edm,fast,energetic,normal
+48 laws power,Hunxo,hip-hop,fast,energetic,normal
+Complicated,Nivea,r&b,slow,sad,normal
+2 MILLION UP,PEEZY,hip-hop,slow,energetic,normal
+Let you,Iann Dior,pop,medium,happy,funky
+Party By Myself,Juice Wrld,edm,medium,calm,normal
+Robbery,Juice Wrld,hip-hop,medium,sad,normal
+Never finsh,Daeyo,hip-hop,slow,energetic,acoustic
+Make Believe,Juice Wrld,hip-hop,fast,calm,normal
+No Good,Juice Wrld,edm,medium,calm,normal
+Thousand Miles,The Kid Laroi,pop,medium,happy,normal
+Bad Energy,Juice Wrld,edm,medium,sad,normal
+Maze,Juice Wrld,edm,fast,sad,normal
+Respect My Cryppn,Blueface,hip-hop,medium,energetic,normal
+Used To,Juice Wrld,edm,medium,sad,normal
+Stay,The Kid Laroi,pop,medium,energetic,acoustic
+1400/999 Freestyle,Juice Wrld,hip-hop,fast,energetic,normal
+Pyramids,Blonded,r&b,medium,calm,normal
+Wishing Well,Juice Wrld,edm,slow,calm,normal
+Adore You,Juice Wrld,edm,slow,happy,normal
+End Of The Road,Juice Wrld,edm,fast,sad,normal
+Dark Red,Steve Lacy,r&b,medium,sad,funky
+Fast,Juice Wrld,hip-hop,slow,calm,normal
+Matt Hardy 999,Trippie Red,hip-hop,fast,energetic,funky
+My Ordinary Life,The Living Tombstones,hip-hop,medium,energetic,funky
+505,Arctic Monkeys,indie,slow,calm,normal
+The Light,Juice Wrld,hip-hop,medium,calm,normal
+All Girls Are The Same,Juice Wrld,edm,medium,sad,normal
+Sticky,Drake,hip-hop,fast,energetic,normal
+No Wind Resistance!,Kinneret,hip-hop,fast,energetic,normal
+My X was Poison,Juice Wrld,hip-hop,slow,calm,normal
+Notion,The Rare Occasions,alternative,medium,energetic,normal
+On Hold,The xx,alternative,medium,sad,normal
+Bandit,Juice Wrld,hip-hop,fast,energetic,normal
+Jumbotron Shit Poppin,Drake,hip-hop,fast,energetic,normal
+In my head,Juice Wrld,hip-hop,slow,sad,normal
+Euphoria,Kendrick Lamar,hip-hop,fast,energetic,funky
+Fine China,Juice Wrld,hip-hop,medium,happy,normal
+Sunflower (Spiderman: Into the Spider-Verse),Post Malone & Swae Lee,hip-hop,medium,happy,normal
+Dark thoughts,Lil Tecca,hip-hop,medium,happy,normal
+KTM Drip,Juice Wrld,hip-hop,fast,energetic,normal
+Cuffed,Juice Wrld,hip-hop,fast,energetic,funky
+Sweater Weather,The Neighborhood,alternative,slow,sad,normal
+Went deaf,Nocap,hip-hop,slow,calm,normal
+Celebrate,Juice Wrld,hip-hop,medium,energetic,normal
+Oxycodone,Juice Wrld,edm,medium,happy,normal
+Ransom,Lil tecca,hip-hop,medium,energetic,normal
+Love Letter,Juice Wrld,edm,fast,happy,normal
+Riot,XXXTENTACION,hip-hop,fast,energetic,normal
+One more summer,Nocap,hip-hop,medium,calm,normal
+Come and Go,Juice Wrld,r&b,medium,energetic,normal
+World Tour (Aquafina),Juice Wrld,edm,fast,energetic,normal
+Sweet Thing (feat. Chaka Khan),Rufus,soul,medium,calm,funky
+I Wanna Be Yours,Arctic Monkeys,pop,medium,sad,normal
+Burn,Juice Wrld,hip-hop,slow,sad,normal
+Banking On Me,Gunna,hip-hop,medium,energetic,normal
+Lucid Dreams,Juice Wrld,edm,fast,sad,normal
+Righteous,Juice Wrld,hip-hop,medium,sad,normal
+Better Off,Yeat,hip-hop,medium,energetic,normal
+All the stars,Kendrick Lamar,r&b,medium,calm,normal
+No More Talk,Yeat,hip-hop,medium,energetic,normal
+SMH,Young dolph,hip-hop,fast,energetic,normal
+Heart To Heart,Mac DeMarco,indie,slow,happy,normal
+I Want It,Juice Wrld,hip-hop,medium,happy,normal
+Timeless,The Weeknd,r&b,medium,energetic,funky
+Stay,Rihanna,r&b,slow,sad,acoustic
+End of the road,Rylo Rodriguez,hip-hop,medium,calm,normal
+Smile,Juice Wrld,hip-hop,medium,sad,normal
+Preach,Young dolph,hip-hop,medium,energetic,normal
+Hereditary,JID,hip-hop,medium,sad,funky
+After Hours,The Weeknd,r&b,medium,calm,funky
+Timeless,Playboicarti,soul,medium,calm,normal
+After Dark,Mr. Kitty,pop,medium,calm,normal
+Ghetto Angels,NoCap,hip-hop,medium,sad,normal
+Perk talk,Lil Double 0,hip-hop,fast,happy,normal
+Toronto 2014(with Mustafa),Daniel Caesar,r&b,medium,calm,acoustic
+Documentary,YFN Lucci,hip-hop,slow,calm,normal
+Blinding Light,The Weeknd,r&b,medium,energetic,funky
+Bad Vibes Forever,XXXTENTACION,r&b,medium,happy,normal
+Legends,Juice Wrld,edm,slow,sad,normal
+Die For You,The Weeknd,r&b,medium,calm,funky
+Rockstar satus,Lil Double 0,hip-hop,fast,happy,funky
+SS,Ken Carson,hip-hop,fast,energetic,normal
+RUSSIAN ROULETTE(I ADORE U),millkzy,hip-hop,slow,sad,normal
+Freaks,Surf Freaks,pop,medium,calm,normal
+Gasoline,The Weeknd,r&b,medium,calm,funky
+Black & White,Juice Wrld,hip-hop,fast,happy,normal
+Pipe Down,Drake,hip-hop,medium,calm,normal
+Dancing in the Flames,The Weeknd,r&b,medium,happy,funky
+Dream Girl,8percent,pop,slow,sad,normal
+Blew My High,Chief Keef,hip-hop,fast,energetic,funky
+Dirty thug,NBA youngboy,hip-hop,medium,energetic,normal
+Bad Boy,Juice Wrld,hip-hop,fast,energetic,normal
+The Hills,The Weeknd,pop,medium,happy,funky
+Chamber of Reflection,Mac DeMarco,indie,slow,sad,normal
+WHO U LOVE,Babyxsosa,hip-hop,fast,energetic,funky
+Less Than Zero,The Weeknd,pop,medium,calm,acoustic
+Jaded,Drake,r&b,slow,sad,normal
+Carter son,NBA youngboy,hip-hop,fast,energetic,normal
+Cardigan,Don Toliver,pop,medium,energetic,normal
+Look At Me,XXXTENTACION,hip-hop,fast,energetic,normal
+Kickstand,NBA youngboy,hip-hop,medium,calm,normal
+Hurricane,The Weeknd,pop,slow,calm,acoustic
+Young,Vacations,indie,slow,calm,normal
+Sky Walker,Miguel,r&b,medium,energetic,normal
+All Eyes On Me,Tu Pac,hip-hop,medium,calm,normal
+Hide,Juice Wrld,edm,slow,sad,normal
+Always Forever,Cults,indie,slow,happy,normal
+Sport mode,NBA youngboy,hip-hop,medium,calm,normal
+Blue Hair,TV Girl,indie,slow,calm,normal
+Man Of The Year,Juice Wrld,edm,fast,happy,normal
+Heavy on my heart,Lucki,hip-hop,slow,calm,normal
+Time out,NBA youngboy,pop,fast,calm,normal
+Never,XXXTENTACION,soul,slow,calm,normal
+Heartless,The Weeknd,pop,medium,calm,funky
+Chaka Khan,TiaCorine,hip-hop,fast,energetic,funky
+Money,The Drums,rock,fast,happy,funky
+So What?,Anycia,hip-hop,slow,calm,normal
+Valentine,XXXTENTACION,soul,slow,sad,normal
+Can't Feel My Face,The Weeknd,pop,medium,calm,funky
+For the First Time,Mac DeMarco,pop,slow,calm,normal
+What You Need,Don Toliver,hip-hop,medium,energetic,normal
+Scared Of Love,Juice Wrld,edm,fast,sad,normal
+Ice Hotel,XXXTENTACION,r&b,slow,sad,normal
+Sacrifice,The Weeknd,pop,medium,energetic,funky
+I don't wanna do this anymore,XXXTENTACION,r&b,medium,sad,normal
+Roses,Juice Wrld,hip-hop,slow,sad,normal
+TATTI,Bktherula,alternative,medium,energetic,normal
+Something About You,Eyedress & Dent May,hip-hop,medium,happy,normal
+SAD,XXXTENTACION,r&b,medium,sad,normal
+BAD,XXXTENTACION,r&b,medium,sad,normal
+We Still Don't Trust You,The Weeknd,r&b,medium,energetic,funky
+Fine shit,Nocap (Feat.Rob49),hip-hop,fast,energetic,normal
+Wasted,Juice Wrld,hip-hop,medium,sad,normal
+Rom-Com Gone Wrong,Matt Maltese,soul,slow,sad,normal
+Condone it,Juice Wrld,hip-hop,medium,calm,normal
+Fready vs Jason,XXXTENTACION,hip-hop,fast,calm,normal
+Is There Someone Else?,The Weeknd,pop,slow,calm,funky
+From The Start,Laufey,pop,medium,happy,normal
+Radar,Nocap,hip-hop,medium,calm,normal
+Mess,Lil Wayne,hip-hop,medium,sad,normal
+False Alarm,The Weeknd,r&b,medium,happy,funky
+Soulfood,redveil,hip-hop,slow,calm,acoustic
+Blind lights,Nocap,hip-hop,medium,calm,normal
+I'll Be Fine,Juice Wrld,edm,fast,calm,normal
+The Remedy,XXXTENTACION,r&b,medium,sad,normal
+Stressed Out,twenty one pilots,hip-hop,medium,energetic,funky
+Never Quit,Yeat,hip-hop,medium,energetic,normal
+Easter pink,Nocap (Feat.Lo shimmy),hip-hop,slow,calm,normal
+Feel Alone,Juice Wrld,edm,medium,sad,normal
+Too Late,The Weeknd,pop,medium,happy,funky
+Safe route,Lo shimmy,hip-hop,medium,calm,normal
+Come & Go,Juice Wrld,hip-hop,fast,calm,normal
+Wake Up,The Weeknd,r&b,medium,happy,funky
+Get it Right,Keshawn Willams,hip-hop,fast,energetic,normal
+Faith,The Weeknd,r&b,medium,calm,funky
+Die For It,The Weeknd,r&b,medium,calm,funky
+Floral & Fading,Pierce The Veil,rock,medium,calm,normal
+Maybach Curtains,Lo shimmy,hip-hop,medium,calm,normal
+Dancin,Aaron Smith & Krono,pop,medium,energetic,funky
+King For A Day,Pierce The Veil,rock,fast,energetic,normal
+Bad Habbit,Steve Lacy,r&b,medium,happy,funky
+Circus Maximus,The Weeknd,r&b,medium,calm,funky
+golden hour,JVKE,pop,fast,happy,normal
+All my life,Lo shimmy,hip-hop,medium,calm,normal
+Creepin,The Weeknd,r&b,medium,energetic,funky
+Bass Santana,XXXTENTACION,hip-hop,fast,energetic,normal
+Leave in,Lo shimmy,hip-hop,medium,calm,normal
+Hold On Till May,Pierce The Veil,rock,medium,sad,normal
+Cry For Me,The Weeknd,r&b,medium,energetic,funky
+Off The Wall,XXXTENTACION,hip-hop,fast,energetic,normal
+I´m Still Standing,Elton John,pop,medium,happy,funky
+Out Of Time,The Weeknd,r&b,medium,calm,funky
+King Of the Dead,XXXTENTACION,hip-hop,slow,calm,normal
+Counting Stars,OneRepublic,pop,fast,happy,funky
+Teenagers,My Chemical Romance,rock,medium,energetic,normal
+Alone Again,The Weeknd,r&b,medium,calm,funky
+Thank You for the Venom,My Chemical Romance,rock,fast,energetic,normal
+Rip Roach,XXXTENTACION,hip-hop,fast,energetic,normal
+Brick!,gucci mane,hip-hop,fast,energetic,normal
+I Feelin Coming,The Weeknd,r&b,medium,calm,funky
+King,XXXTENTACION,rock,fast,energetic,normal
+Bling-Bang-Bang-Born,Creepy Nuts,hip-hop,fast,energetic,funky
+In Your Eyes,The Weeknd,r&b,medium,calm,funky
+Selfish,XXXTENTACION,r&b,medium,sad,normal
+Best Friends,The Weeknd,pop,medium,happy,funky
+Cemetery Drive,My Chemical Romance,rock,fast,sad,normal
+Selfish,Pbn rock,r&b,medium,calm,normal
+Reminder,The Weeknd,r&b,medium,energetic,funky
+I Never Told You What I Do for a Living,My chemical Romance,rock,fast,energetic,normal
+It´s Going Down Now,"Azumi Takahashi , Lotus Juice & ATLUS Sound Team",hip-hop,fast,energetic,funky
+Love Your Self,XXXTENTACION,r&b,medium,calm,normal
+Scared To Live,The Weeknd,pop,medium,happy,funky
+Difference,XXXTENTACION,r&b,medium,sad,normal
+Changes,XXXTENTACION,r&b,medium,sad,normal
+Basics in Behaviour,The Living Tombstone,indie,medium,energetic,normal
+I'm Not Okay (I Promise),My Chemical Romance,rock,fast,energetic,normal
+How Do I Make You Love Me?,The Weeknd,r&b,fast,energetic,funky
+Do you Know the Way,XXXTENTACION,soul,medium,sad,normal
+Alone Part 3,XXXTENTACION,r&b,medium,sad,normal
+Sunroof,Nicky Youre & hey daisy,pop,medium,happy,funky
+Pookie Lean,42 brook,hip-hop,fast,energetic,funky
+Very Rare Freestyle,XXXTENTACION,hip-hop,medium,calm,normal
+Until I Bleed Out,The Weeknd,r&b,fast,calm,funky
+Messages from the Stars,The Rah Band,pop,fast,energetic,funky
+Tears In The Rain,The Weeknd,r&b,medium,calm,funky
+Sinners,Rod Wave,soul,slow,sad,normal
+Secrets,The Weeknd,pop,medium,energetic,funky
+Lost In Love,Rod Wave,soul,slow,sad,normal
+Rockin,The Weeknd,pop,medium,energetic,funky
+Mike,Rod Wave,soul,slow,happy,normal
+Elaphant,XXXTENTACION,r&b,medium,sad,normal
+No Mercy (feat. BlackGryph0n & LittleJayneyCakes,The Living Tombstone,pop,medium,energetic,normal
+It's over,Lil Double 0,hip-hop,medium,energetic,normal
+OK shawty,XXXTENTACION,hip-hop,medium,energetic,normal
+Angel With An Attitude,Rod Wave,soul,slow,happy,normal
+RUN UP,XXXTENATCION,hip-hop,fast,energetic,normal
+Westside Connection,Rod wave,soul,slow,sad,normal
+Woah,XXXTENTACION,r&b,slow,calm,normal
+WanderLust,The Weeknd,r&b,medium,energetic,funky
+Jocleyn Floreas,XXXTENTACION,r&b,medium,sad,normal
+BLASTED,XXXTENTACION,hip-hop,medium,calm,normal
+Party Monster,The Weeknd,pop,slow,calm,funky
+Love For You,LOVELI LORI & ovg!,pop,medium,happy,normal
+Floor It,Juice Wrld,edm,medium,calm,normal
+Train Food,XXXTENTACION,hip-hop,medium,energetic,normal
+Doom,Juice Wrld,edm,slow,sad,normal
+The Hill (Remix),The Weeknd,r&b,medium,energetic,funky
+Human,Rag'n'Bone Man,soul,medium,energetic,funky
+Relocate,Juice Wrld,edm,slow,calm,normal
+777,XXXTENTACION,hip-hop,medium,sad,normal
+The Morning,The Weeknd,r&b,medium,calm,funky
+H2O,XXXTENTACION,hip-hop,fast,energetic,normal
+Empty,Juice Wrld,hip-hop,medium,sad,normal
+Love Me Harder,The Weeknd,pop,medium,calm,funky
+Double Life,Pharrel Williams,hip-hop,medium,happy,normal
+Earned It,The Weeknd,pop,medium,calm,funky
+Legendary,rio da yung og,hip-hop,fast,energetic,normal
+Hate The Other Side,Juice Wrld,hip-hop,fast,calm,normal
+Prayed For Me,The Weeknd,pop,medium,happy,acoustic
+Str8 Shot,XXXTENTACION,hip-hop,slow,calm,normal
+I Am the Grinch (feat. Fletcher Jones),"Tyler, The Creator",hip-hop,medium,happy,normal
+Live For,The Weeknd,r&b,medium,calm,funky
+Revenge,XXXTENTACION,r&b,medium,sad,normal
+Talkin crazy,rio da yung og,hip-hop,medium,energetic,normal
+Rio Free,rio da yung og,hip-hop,fast,happy,normal
+Save Your Tears,The Weeknd,pop,fast,sad,normal
+Blinding Lights,The Weeknd,pop,fast,happy,vintage
+Someone Like You,Adele,pop,slow,sad,acoustic
+Uptown Funk,Bruno Mars,funk,fast,energetic,funky
+drivers license,Olivia Rodrigo,pop,slow,sad,normal
+Shake It Off,Taylor Swift,pop,fast,happy,normal
+Circles,Post Malone,hip-hop,medium,calm,acoustic
+Levitating,Dua Lipa,pop,fast,energetic,funky
+bad guy,Billie Eilish,pop,medium,sad,vintage
+Sunflower,Post Malone,hip-hop,medium,happy,normal
+I Bet on Losing Dogs ,Mitski,soul,slow,sad,normal
