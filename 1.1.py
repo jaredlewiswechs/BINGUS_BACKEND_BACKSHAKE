@@ -1,3 +1,8 @@
+import pandas as pd
+import numpy as np
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.neighbors import NearestNeighbors
+
 version = "1.0 Siamese Scarlett"
 
 songs = [
@@ -948,6 +953,39 @@ songs += [
     {'title': 'Easy On Me', 'artist': 'Adele', 'genre': 'r&b', 'tempo': 'slow', 'mood': 'sad', 'style': 'normal'},
 ]
 
+
+
+def build_feature_matrix(songs):
+    df = pd.DataFrame(songs)
+    tempo_map = {"slow": 0, "medium": 1, "fast": 2}
+    df["tempo_code"] = df["tempo"].map(tempo_map).fillna(1).astype(int)
+
+    encoder = OneHotEncoder(sparse_output=False)
+    cat_cols = ["genre", "mood", "style"]
+    cat_array = encoder.fit_transform(df[cat_cols])
+    feature_names = encoder.get_feature_names_out(cat_cols)
+
+    X = np.hstack([cat_array, df[["tempo_code"]].values])
+    columns = list(feature_names) + ["tempo_code"]
+    return pd.DataFrame(X, columns=columns, index=df["title"]), encoder
+
+def train_models(features, n_neighbors=5):
+    euc = NearestNeighbors(n_neighbors=n_neighbors, metric="euclidean")
+    euc.fit(features)
+    cos = NearestNeighbors(n_neighbors=n_neighbors, metric="cosine")
+    cos.fit(features)
+    return euc, cos
+
+def recommend_similarity(song_title, model, features):
+    if song_title not in features.index:
+        raise KeyError(f"'{song_title}' not in list.")
+    # Pass a DataFrame slice to preserve feature names and suppress warnings
+    query_vec = features.loc[[song_title]]
+    dists, idxs = model.kneighbors(query_vec, return_distance=True)
+    return [(features.index[i], d) for d, i in zip(dists[0][1:], idxs[0][1:])]
+
+
+
 print(f'Welcome to recommendR')
 print(f'Powered by BINGUS backend backshakeR')
 print(f'Version No: {version}, running on {len(songs)} songs')
@@ -971,7 +1009,7 @@ def get_match_score(song, request):
         score += 1.3
     if song["style"] == request["style"]:
         score += 1
-    if score == 5.3:
+    if score == 5.1:
         print(" ")
         print("You have a Perfect match!")
     return score
@@ -996,4 +1034,19 @@ for song in songs[:10]:
     print(f"{song['title']} by {song['artist']} — {song['score']} match points")
 print(" ")
 print(f'You chose a(n) {song["genre"]} song, with {song['tempo']} tempo, that is {song['mood']}, and {song['style']}! ')
+print(' ')
+# Rebuild similarity models on the final songs list to ensure dimensions match
+features, _ = build_feature_matrix(songs)
+model_euc, model_cos = train_models(features, n_neighbors=11)
+seed = input("Enter a song title to see similar tracks (or press Enter to skip): ").strip()
+if seed:
+    try:
+        print("\n🔹 Euclidean similarity:")
+        for title, dist in recommend_similarity(seed, model_euc, features):
+            print(f"  • {title} (distance={dist:.2f})")
 
+        print("\n🔹 Cosine similarity:")
+        for title, dist in recommend_similarity(seed, model_cos, features):
+            print(f"  • {title} (1−cosine={dist:.2f})")
+    except KeyError as ex:
+        print(ex)
